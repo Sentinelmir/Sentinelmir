@@ -1,16 +1,41 @@
-## Hi there 👋
+## Hi there, I'm Arina 👋
 
-<!--
-**Sentinelmir/Sentinelmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Developer
 
-Here are some ideas to get you started:
+Self-motivated Python developer with 1.5+ years of hands-on experience in backend and web development.  
+Working with Python, Django, PostgreSQL and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Stack
+
+- Python
+- Django
+- PostgreSQL
+- JavaScript
+- HTML
+- CSS
+- Git
+- OOP
+- Data Structures
+
+---
+
+### 📚 Currently learning
+
+- Advanced Django
+- Backend architecture
+- Database optimization
+
+---
+
+### 🌱 About me
+
+- 1.5+ years practicing Python development
+- Focused on backend and web applications
+- Interested in building scalable web systems
+
+---
+## Languages and Tools
+
+![Tech Stack](https://skillicons.dev/icons?i=python,django,postgres,html,css,js,vscode)
