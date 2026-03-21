@@ -6,7 +6,15 @@ Self-motivated Python developer with 1.5+ years of hands-on experience in backen
 Working with Python, Django, PostgreSQL and JavaScript.
 
 ---
+### 🚀 **Featured Project**
 
+Boardgame World — Django web application for managing board games, reviews, and collections.
+
+👉 Live demo: http://13.50.157.69/
+
+👉 Repository: https://github.com/Sentinelmir/Boardgames_project_AWS
+
+---
 ### 💻 Tech Stack
 
 - Python
@@ -21,19 +29,11 @@ Working with Python, Django, PostgreSQL and JavaScript.
 
 ---
 
-### 📚 Currently learning
-
-- Advanced Django
-- Backend architecture
-- Database optimization
-
----
-
 ### 🌱 About me
 
 - 1.5+ years practicing Python development
 - Focused on backend and web applications
-- Interested in building scalable web systems
+- Particularly interested in databases and data-related problems
 
 ---
 ## Languages and Tools
