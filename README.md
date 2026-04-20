@@ -8,11 +8,11 @@ Working with Python, Django, PostgreSQL and JavaScript.
 ---
 ### 🚀 **Featured Project**
 
-Boardgame World — Django web application for managing board games, reviews, and collections.
+Book World — Django web application for managing books, reviews, and collections.
 
-👉 Live demo: http://13.50.157.69/
+👉 Live demo: http://13.63.149.182/
 
-👉 Repository: https://github.com/Sentinelmir/Boardgames_project_AWS
+👉 Repository: https://github.com/Sentinelmir/reading-club
 
 ---
 ### 💻 Tech Stack
